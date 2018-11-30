@@ -1,0 +1,16 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "A news client app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "A",
+    "news",
+    "app"
+  ],
+  "author": "Babatunde Olajide",
+  "license": "ISC"
+}
